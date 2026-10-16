@@ -61,7 +61,7 @@ A Streamlit page for the operations manager. They open it tonight and again befo
 - **Tools I used:** Claude
 - **What AI did for me:** A lot of the coding, I was mainly just guiding and checking outputs
 - **One thing AI got wrong or incomplete, and how I caught it:** the first version silently dropped alerts that never formed a top issue; I caught it by asking whether useful alerts were being lost, and it was changed to flag-and-show.
-- **Link to / export of my AI session:** https://claude.ai/chat/4b7077db-da2c-447d-a3bf-9c6026e7c4bd
+- **Link to / export of my AI session:** https://claude.ai/share/97806608-c2bc-4faa-93f7-9ca4e56bfab8
 
 ## If I had two more days
 - Decay old faults, and show whether each vehicle has recent activity.
